@@ -1,3 +1,4 @@
-﻿Subject,Participant,Status,Themes,Timeline
-Domain Driven Design,"Brian, Daesung, Jihyun, Seungeun",Complete 🙌,🌱 Architecture,"August 31, 2023 → October 25, 2023"
-MSA,"Brian, Daesung, Jihyun, Seungeun",Not started,🌱 Architecture,"November 1, 2023"
+﻿Subject,Status,Themes,Timeline,Participant
+MSA,Complete 🙌,🌱 Architecture,"November 1, 2023 → December 27, 2023","Brian, Daesung, Jihyun, Seungeun"
+Domain Driven Design,Complete 🙌,🌱 Architecture,"August 31, 2023 → October 25, 2023","Brian, Daesung, Jihyun, Seungeun"
+Architecture,Not started,🌱 Architecture,"January 10, 2024 → February 28, 2024",
